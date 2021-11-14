@@ -1,0 +1,2 @@
+- `npx webpack` to bundle
+- `npx webpack serve` to serve with hot-reload
